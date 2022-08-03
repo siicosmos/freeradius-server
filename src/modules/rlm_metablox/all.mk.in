@@ -1,0 +1,2 @@
+TARGET		:= rlm_metablox.a
+SOURCES		:= rlm_metablox.c
